@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6425c5ac91bb2aebc87b5217",
+    "author_name": "Connie Suarez",
+    "blog_title": "The End of Front-End Development",
+    "cover_image": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+    "author_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "read_time": "11",
+    "publish_date": "Jan 15 (2 Days ago)",
+    "tags": ["#HTML", "#CSS", "#JS"]
+  },
+  {
+    "id": "6425c5ac9cd8e26509653adf",
+    "author_name": "Ines Battle",
+    "blog_title": "A Complete Guide to useEffect",
+    "cover_image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "author_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "read_time": "17",
+    "publish_date": "Mar 13 (5 Days ago)",
+    "tags": ["#JS", "#ReactJS"]
+  },
+  {
+    "id": "6425c5ac300e57518c3fb99f",
+    "author_name": "Ruthie Anderson",
+    "blog_title": "Refactoring TypeScript React components in VS Code",
+    "cover_image": "https://images.unsplash.com/photo-1672308627194-9a2c28daa17a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "author_image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "read_time": "14",
+    "publish_date": "Feb 16 (7 Days ago)",
+    "tags": ["#TS", "#JS", "#ReactJS"]
+  },
+  {
+    "id": "6425c5acdd4b36279c6723f6",
+    "author_name": "Robyn Hobbs",
+    "blog_title": "How to build an inline edit component in React",
+    "cover_image": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "author_image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "read_time": "10",
+    "publish_date": "Apr 09 (3 Days ago)",
+    "tags": ["#ReactJS", "#Programming"]
+  },
+  {
+    "id": "6425c5ac080ae61ebec92dea",
+    "author_name": "Walsh Morrow",
+    "blog_title": "Getting Started With CockroachDB, pg-promise and Next.js",
+    "cover_image": "https://images.unsplash.com/photo-1576936422505-18d321d54d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "author_image": "https://images.unsplash.com/photo-1621592484082-2d05b1290d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "read_time": "15",
+    "publish_date": "Aug 08 (2 Days ago)",
+    "tags": ["#NextJS", "#JS"]
+  },
+  {
+    "id": "6425c5ac49ae4ec61faf6858",
+    "author_name": "Alexandra Price",
+    "blog_title": "React Project Ideas, and How to Invent Your Own",
+    "cover_image": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "author_image": "https://images.unsplash.com/photo-1533689476487-034f57831a58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+    "read_time": "19",
+    "publish_date": "Sep 15 (6 Days ago)",
+    "tags": ["#WebDevelopment", "#ReactJS"]
+  }
+]
